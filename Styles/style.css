@@ -1,4 +1,10 @@
+
+@font-face {font-family: open sans; src: https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;1,300&family=Syne+Mono&display=swap;}
 body {
-    background-color: rgb(98, 189, 184);
-    color: rgb(1, 44, 30);
+    background-color: rgb(2, 37, 36);
+    color: rgb(209, 255, 240);
+}
+
+.p2{
+    background-color:rgb(245, 205, 30) ; color: steelblue; font-size: 150%; opacity: 0.3;
 }
